@@ -1,6 +1,6 @@
 # Week-04
 **JavaScript practice**
-All exercises are divided by category in diferent JS files.
+All exercises are divided by category in diferent JS foulders.
 
 **Github Pages:**
 https://augustotobia.github.io/Week-04/
